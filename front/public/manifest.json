@@ -1,0 +1,10 @@
+{
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "display": "standalone",
+    "start_url": "/",
+    "name": "kruger",
+    "short_name": "kruger",
+    "description": "Inventario de vacunacion"
+
+}

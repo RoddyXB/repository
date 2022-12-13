@@ -1,0 +1,117 @@
+{
+  "rol": [
+    {
+      "id": 1,
+      "nameRol": "ADMINISTRADOR"
+    },
+    {
+      "id": 2,
+      "nameRol": "EMPLEADO"
+    }
+  ],
+  "person": [
+    {
+      "id": 1,
+      "identification": "1316388295",
+      "name": "RODDY XAVIER",
+      "lastName": "BARBERAN TEJENA",
+      "email": "rbarberan8295@gmail.com",
+      "userName": "rbarberan8295",
+      "password": "1316388295",
+      "dateBirth": "",
+      "address": "",
+      "cellPhone": "",
+      "vaccine": "",
+      "vaccineId": 2,
+      "dateVaccine": "",
+      "doseNumber": "",
+      "rolId": 1
+    },
+    {
+      "id": 2,
+      "identification": "1350050306",
+      "name": "AMBAR JULIANA",
+      "lastName": "LOOR MACIAS",
+      "email": "ambar03@gmail.com",
+      "userName": "aloor0306",
+      "password": "1350050306",
+      "dateBirth": "2002-12-17",
+      "address": "SANTA LUCIA",
+      "cellPhone": "0960055758",
+      "vaccine": "vacunado",
+      "vaccineId": 1,
+      "dateVaccine": "2022-12-01",
+      "doseNumber": "1",
+      "rolId": 2
+    },
+    {
+      "id": 3,
+      "identification": "1306380161",
+      "name": "HUGO LUBER",
+      "lastName": "BARBERAN DELGADO",
+      "email": "hugo@gmail.com",
+      "userName": "hbarberan0161",
+      "password": "1306380161",
+      "dateBirth": "",
+      "address": "",
+      "cellPhone": "",
+      "vaccine": "",
+      "vaccineId": "",
+      "dateVaccine": "",
+      "doseNumber": "",
+      "rolId": 2
+    },
+    {
+      "id": 4,
+      "identification": "1310839541",
+      "name": "ELVIS",
+      "lastName": "CARDENAS",
+      "email": "elvis@gmail.es",
+      "userName": "ecardenas9541",
+      "password": "1310839541",
+      "dateBirth": "",
+      "address": "",
+      "cellPhone": "",
+      "vaccine": "",
+      "vaccineId": "",
+      "dateVaccine": "",
+      "doseNumber": "",
+      "rolId": 2
+    },
+    {
+      "identification": "1350352777",
+      "name": "REY CRUZ",
+      "lastName": "MERA MACIAS",
+      "email": "rey@gmail.com",
+      "userName": "rmera2777",
+      "password": "1350352777",
+      "dateBirth": "1995-05-05",
+      "address": "26 DE SEPTIEMBRE",
+      "cellPhone": "0980458231",
+      "vaccine": "vacunado",
+      "vaccineId": 2,
+      "dateVaccine": "2022-12-02",
+      "doseNumber": "2",
+      "rolId": 2,
+      "id": 5
+    }
+  ],
+  "vaccine": [
+    {
+      "id": 1,
+      "nameVaccine": "Sputnik"
+    },
+    {
+      "id": 2,
+      "nameVaccine": "AstraZeneca"
+    },
+    {
+      "id": 3,
+      "nameVaccine": "Pfizer"
+    },
+    {
+      "id": 4,
+      "nameVaccine": "Jhonson&Jhonson"
+    }
+  ]
+}
